@@ -69,11 +69,15 @@
                 </a>
                 <!-- Twitter -->
                 <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
-                        src="https://img.shields.io/badge/--000000?style=flat-square&logo=X&logoColor=white">
+                        src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white">
                 </a>
                 <!-- Linkedin -->
                 <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
-                        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+                        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+                </a>
+                <!-- Instagram -->
+                <a href="https://www.instagram.com/666.0.66/" target="_blank"><img alt="Instagram"
+                        src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
                 </a>
         </div>
     </p>
