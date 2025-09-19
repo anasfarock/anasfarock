@@ -46,7 +46,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Anas Farooq's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
