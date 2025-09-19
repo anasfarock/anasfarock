@@ -36,12 +36,8 @@
             <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-37bcf8?style=for-the-badge&logo=tailwindcss&logoColor=white" width="100" height="30">
         </a>
 </p>
-
 <!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
-        <br>
         <!-- Activity Widget -->
         <div align="center">
         <table>
@@ -65,23 +61,23 @@
         </div>
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
-        </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/--000000?style=flat-square&logo=X&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
+        <div align="center">
+                <p >Find me on</p>
+                <!-- Mail -->
+                <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
+                        src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
+                </a>
+                <!-- Twitter -->
+                <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
+                        src="https://img.shields.io/badge/--000000?style=flat-square&logo=X&logoColor=white">
+                </a>
+                <!-- Linkedin -->
+                <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
+                        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+                </a>
+        </div>
     </p>
-</details>
 <br>
-
 <!-- Footer -->
 <samp>
     <p align="center">
