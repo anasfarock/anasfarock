@@ -107,15 +107,10 @@
                 </a>
         </div>
     </p>
-<br>
 <!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding"
-    </p>
-</samp>
+<p align="center">
+════ ⋆★⋆ ════
+</p>
 
 <!-- Featured Repositories 
 #### Featured
