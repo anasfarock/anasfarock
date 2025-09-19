@@ -1,8 +1,6 @@
 <!-- https://github.com/anasfarock/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-
-
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -45,8 +43,26 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Anas Farooq's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent" />
+        <div align="center">
+        <table>
+          <tr>
+            <td>
+              <img alt="Anas Farooq's GitHub Stats" 
+                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&hide=contribs" />
+            </td>
+            <td rowspan="2">
+              <img alt="Top Languages"
+                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfarock&layout=donut-vertical&theme=transparent&hide_border=true" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="Anas Farooq's GitHub Stats" 
+                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&show=prs_merged,prs_merged_percentage&hide=prs,commits,stars,issues&hide_title=true" />
+            </td>
+          </tr>
+        </table>
+        </div>
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
