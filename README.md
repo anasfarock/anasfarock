@@ -7,7 +7,6 @@
                 <b><a target="_blank" href="https://anasfarooq.com/">Anas Farooq</a></b>
         </samp>
 </h3>
-<br>
 
 <p align="center">
         <!-- Intro -->
