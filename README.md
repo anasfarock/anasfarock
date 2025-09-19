@@ -93,7 +93,7 @@
                 </a>
                 <!-- Mastodon -->
                 <a href="https://mastodon.social/@anasfarooq" target="_blank"><img alt="Mastodon"
-                        src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white">
+                        src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=flat-square&logo=mastodon&logoColor=white">
                 </a>
                 <!-- Medium -->
                 <a href="https://medium.com/@anas.farooq" target="_blank"><img alt="Medium"
