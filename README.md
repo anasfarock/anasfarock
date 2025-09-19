@@ -56,7 +56,7 @@
         </a>
         <!-- Twitter -->
         <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+                src="https://img.shields.io/badge/-X-1c9bef?style=flat-square&logo=X&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
