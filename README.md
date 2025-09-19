@@ -45,7 +45,7 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
+        <img alt="Anas Farooq's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
@@ -56,7 +56,7 @@
         </a>
         <!-- Twitter -->
         <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/--1c9bef?style=flat-square&logo=X&logoColor=white">
+                src="https://img.shields.io/badge/--000000?style=flat-square&logo=X&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
