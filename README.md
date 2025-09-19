@@ -62,7 +62,9 @@
         <br>
         <!-- Social Links -->
         <div align="center">
-                <p >Find me on</p>
+                <samp>
+                        <p >Find me on</p>
+                </samp>
                 <!-- Mail -->
                 <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
                         src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
@@ -75,9 +77,25 @@
                 <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
                         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
                 </a>
+                <!-- Bluesky -->
+                <a href="https://bsky.app/profile/anasfarooq.bsky.social" target="_blank"><img alt="Bluesky"
+                        src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white">
+                </a>
+                <!-- Mastodon -->
+                <a href="https://mastodon.social/@anasfarooq" target="_blank"><img alt="Mastodon"
+                        src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white">
+                </a>
+                <!-- Medium -->
+                <a href="https://medium.com/@anas.farooq" target="_blank"><img alt="Medium"
+                        src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white">
+                </a>
                 <!-- Instagram -->
                 <a href="https://www.instagram.com/666.0.66/" target="_blank"><img alt="Instagram"
                         src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+                </a>
+                <!-- Facebook -->
+                <a href="https://www.instagram.com/666.0.66/" target="_blank"><img alt="Facebook"
+                        src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white">
                 </a>
         </div>
     </p>
