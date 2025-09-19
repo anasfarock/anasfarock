@@ -52,11 +52,11 @@
         <p>Find me on</p>
         <!-- Mail -->
         <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
         </a>
         <!-- Twitter -->
         <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-X-1c9bef?style=flat-square&logo=X&logoColor=white">
+                src="https://img.shields.io/badge/--1c9bef?style=flat-square&logo=X&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/anasfarock/" target="_blank"><img alt="Linkedin"
