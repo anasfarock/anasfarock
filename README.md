@@ -66,7 +66,6 @@
           </tr>
         </table>
         </div>
-        <br>
         <!-- Social Links -->
         <div align="center">
                 <samp>
@@ -75,6 +74,10 @@
                 <!-- Mail -->
                 <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
                         src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
+                </a>
+                <!-- Blogger -->
+                <a href="https://blog.anasfarooq.com" target="_blank"><img alt="Blogger"
+                        src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white">
                 </a>
                 <!-- Twitter -->
                 <a href="https://twitter.com/AnasFarq" target="_blank"><img alt="Twitter"
