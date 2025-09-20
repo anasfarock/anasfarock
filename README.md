@@ -51,7 +51,7 @@
           <tr>
             <td>
               <img alt="Anas Farooq's GitHub Stats" 
-                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&hide=contribs" />
+                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&" />
             </td>
             <td rowspan="2">
               <img alt="Top Languages"
@@ -61,7 +61,7 @@
           <tr>
             <td>
               <img alt="Anas Farooq's GitHub Stats" 
-                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&show=prs_merged,prs_merged_percentage&hide=prs,commits,stars,issues&hide_title=true&rank_icon=percentile" />
+                   src="https://github-readme-streak-stats.herokuapp.com/?user=anasfarock&theme=transparent&hide_border=true" />
             </td>
           </tr>
         </table>
