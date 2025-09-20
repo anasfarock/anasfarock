@@ -69,7 +69,7 @@
         <!-- Social Links -->
         <div align="center">
                 <samp>
-                        <p >⇓ Find me on ⇓</p>
+                        <h3 >⇓════ Find me on ════⇓</h3>
                 </samp>
                 <!-- Mail -->
                 <a href="mailto:m.anas.farooq@outlook.com" target="_blank"><img alt="Mail"
