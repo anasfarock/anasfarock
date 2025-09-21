@@ -69,19 +69,23 @@
                    src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
             </td>
           </tr>
+        </table>
+        </div>
+        <div align="center">
+        <table>
           <tr>
            <td colspan="2" align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Monthly+Statistics+-+(Wakatime)" alt="GitHub Stats" />
+              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Monthly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
             </td>
           </tr>
             <tr>
-              <td align="center" width="50%">
-                <img src="https://wakatime.com/share/@anasfarooq/a1358be1-6401-4cc4-b064-e9dfb5e918cd.svg" alt="Wakatime Stats Left" />
-              </td>
-              <td align="center" width="50%">
-                <img src="https://wakatime.com/share/@anasfarooq/1e27ab84-cbca-47be-ae06-fe1dc91b9ec3.svg" alt="Wakatime Stats Right" />
-              </td>
-            </tr>
+      <td align="center" width="50%">
+        <img src="https://wakatime.com/share/@anasfarooq/a1358be1-6401-4cc4-b064-e9dfb5e918cd.svg" alt="Wakatime Stats Left" width="398" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://wakatime.com/share/@anasfarooq/1e27ab84-cbca-47be-ae06-fe1dc91b9ec3.svg" alt="Wakatime Stats Right" width="398" />
+      </td>
+    </tr>
         </table>
         </div>
         <!-- Social Links -->
