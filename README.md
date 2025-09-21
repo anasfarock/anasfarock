@@ -49,6 +49,11 @@
         <div align="center">
         <table>
           <tr>
+            <td colspan="2" align="center">
+              <b>⋆★ GitHub Stats ★⋆</b>
+            </td>
+          </tr>
+          <tr>
             <td>
               <img alt="Anas Farooq's GitHub Stats" 
                    src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&" />
@@ -60,7 +65,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Anas Farooq's GitHub Stats" 
+              <img alt="Anas Farooq's GitHub Streak Stats" 
                    src="https://github-readme-streak-stats.herokuapp.com/?user=anasfarock&theme=transparent&hide_border=true" />
             </td>
           </tr>
