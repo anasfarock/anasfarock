@@ -50,13 +50,13 @@
         <table>
           <tr>
             <td colspan="2" align="center">
-              <b>⋆★ GitHub Stats ★⋆</b>
-            </td>
+            <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=true&color=006AFF&center=true&vCenter=true&width=500&height=25&lines=Muhammad+Anas+Farooq's+GitHub+Statistics+" alt="GitHub Stats" />
+        </td>
           </tr>
           <tr>
             <td>
-              <img alt="Anas Farooq's GitHub Stats" 
-                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&" />
+              <img alt="Anas Farooq's GitHub Streak Stats" 
+                   src="https://github-readme-streak-stats.herokuapp.com/?user=anasfarock&theme=transparent&hide_border=true" />
             </td>
             <td rowspan="2">
               <img alt="Top Languages"
@@ -64,9 +64,9 @@
             </td>
           </tr>
           <tr>
-            <td>
-              <img alt="Anas Farooq's GitHub Streak Stats" 
-                   src="https://github-readme-streak-stats.herokuapp.com/?user=anasfarock&theme=transparent&hide_border=true" />
+          <td>
+              <img alt="Anas Farooq's GitHub Stats" 
+                   src="https://github-readme-stats.vercel.app/api?username=anasfarock&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
             </td>
           </tr>
         </table>
