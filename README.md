@@ -73,20 +73,20 @@
         </div>
         <div align="center">
         <table>
-          <tr>
-           <td colspan="2" align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Monthly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
-            </td>
-          </tr>
-            <tr>
-      <td align="center" width="50%">
-        <img src="https://wakatime.com/share/@anasfarooq/a1358be1-6401-4cc4-b064-e9dfb5e918cd.svg" alt="Wakatime Stats Left" width="398" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://wakatime.com/share/@anasfarooq/1e27ab84-cbca-47be-ae06-fe1dc91b9ec3.svg" alt="Wakatime Stats Right" width="398" />
-      </td>
-    </tr>
-        </table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Weekly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://wakatime.com/share/@anasfarooq/078315ed-beb3-4cc9-9b2c-1b6e5a87a637.svg" width="398" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://wakatime.com/share/@anasfarooq/b89740b3-31bd-4ae4-b2d6-2b2b5b129351.svg" alt="Wakatime Stats Right" width="398" />
+    </td>
+  </tr>
+</table>
         </div>
         <!-- Social Links -->
         <div align="center">
