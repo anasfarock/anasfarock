@@ -50,7 +50,7 @@
         <table>
           <tr>
             <td colspan="2" align="center">
-            <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=true&color=006AFF&center=true&vCenter=true&width=500&height=25&lines=Muhammad+Anas+Farooq's+GitHub+Statistics+" alt="GitHub Stats" />
+            <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=500&height=25&lines=Muhammad+Anas+Farooq's+GitHub+Statistics+" alt="GitHub Stats" />
         </td>
           </tr>
           <tr>
