@@ -80,10 +80,10 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://wakatime.com/share/@anasfarooq/11ffaa18-3487-46dd-9fc6-61135384a22d.png" width="383" />
+      <img src="https://wakatime.com/share/@anasfarooq/11ffaa18-3487-46dd-9fc6-61135384a22d.png" width="398" />
     </td>
     <td align="center" width="50%">
-      <img src="https://wakatime.com/share/@anasfarooq/26001785-e46a-490a-bbc1-45d3b1fc8163.png" alt="Wakatime Stats Right" width="385" />
+      <img src="https://wakatime.com/share/@anasfarooq/26001785-e46a-490a-bbc1-45d3b1fc8163.png" alt="Wakatime Stats Right" width="398" />
     </td>
   </tr>
 </table>
