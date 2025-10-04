@@ -87,6 +87,17 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=200&height=25&lines=Badges" alt="Badges" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://holopin.me/anasfarock" width=823/>
+    </td>
+</table>
         </div>
         <!-- Social Links -->
         <div align="center">
