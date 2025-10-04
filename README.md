@@ -72,6 +72,18 @@
         </table>
         </div>
         <div align="center">
+        <!-- Monthly Contributions Stats -->
+        <table>
+          <tr>
+            <td colspan="2" align="center">
+              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Monthly+Contribution+Graph" alt="Monthly Contribution Graph" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasfarock&bg_color=transparent&color=4e9e4c&line=569e4c&point=403d3d&area=true&hide_border=true&hide_title=true" width=823/>
+            </td>
+        </table>
         <!-- Wakatime Stats Table -->
         <table>
           <tr>
