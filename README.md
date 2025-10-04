@@ -45,7 +45,7 @@
 </p>
 <!-- Details Section -->
     <p align="center">
-        <!-- Activity Widget -->
+        <!-- Github Stats Table -->
         <div align="center">
         <table>
           <tr>
@@ -72,32 +72,34 @@
         </table>
         </div>
         <div align="center">
+        <!-- Wakatime Stats Table -->
         <table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Weekly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://wakatime.com/share/@anasfarooq/cf8b1bcc-bf4a-4474-b887-9c0d9f6c7eec.svg?v=1" width="398" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://wakatime.com/share/@anasfarooq/a990e86e-9079-4ffb-93e6-f2d285df0e29.svg?v=1" alt="Wakatime Stats Right" width="398" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=200&height=25&lines=Badges" alt="Badges" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://holopin.me/anasfarock" width=823/>
-    </td>
-</table>
+          <tr>
+            <td colspan="2" align="center">
+              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Weekly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center" width="50%">
+              <img src="https://wakatime.com/share/@anasfarooq/cf8b1bcc-bf4a-4474-b887-9c0d9f6c7eec.svg?v=1" width="398" />
+            </td>
+            <td align="center" width="50%">
+              <img src="https://wakatime.com/share/@anasfarooq/a990e86e-9079-4ffb-93e6-f2d285df0e29.svg?v=1" alt="Wakatime Stats Right" width="398" />
+            </td>
+          </tr>
+        </table>
+        <!-- Badges Table -->
+        <table>
+          <tr>
+            <td colspan="2" align="center">
+              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=200&height=25&lines=Badges" alt="Badges" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <img src="https://holopin.me/anasfarock" width=823/>
+            </td>
+        </table>
         </div>
         <!-- Social Links -->
         <div align="center">
@@ -142,10 +144,10 @@
                 </a>
         </div>
     </p>
-<!-- Footer -->
-<p align="center">
-════ ⋆★⋆ ════
-</p>
+    <!-- Footer -->
+    <p align="center">
+        ════ ⋆★⋆ ════
+    </p>
 
 <!-- Featured Repositories 
 #### Featured
