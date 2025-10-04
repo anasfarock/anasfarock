@@ -88,7 +88,7 @@
         <table>
           <tr>
             <td colspan="2" align="center">
-              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Weekly+Statistics+-+(Wakatime)" alt="Wakatime Stats" />
+              <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=450&height=25&lines=Weekly+Statistics+-+Wakatime" alt="Wakatime Stats" />
             </td>
           </tr>
           <tr>
