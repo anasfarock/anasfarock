@@ -81,7 +81,7 @@
           </tr>
           <tr>
             <td align="center">
-              <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasfarock&bg_color=transparent&color=4e9e4c&line=569e4c&point=403d3d&area=true&hide_border=true&hide_title=true" width=823/>
+              <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasfarock&bg_color=transparent&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true&hide_title=true" width=823/>
             </td>
         </table>
         <!-- Wakatime Stats Table -->
