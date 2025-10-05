@@ -162,6 +162,9 @@
     <p align="center">
         ════ ⋆★⋆ ════
     </p>-->
+    <samp>
+          <h3 >⇓ Badges ⇓</h3>
+    </samp>
     <div align="center">
             <td align="center">
                 <img src="https://holopin.me/anasfarock" width=855/>
