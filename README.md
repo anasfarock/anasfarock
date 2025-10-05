@@ -158,18 +158,23 @@
                 </a>
         </div>
     </p>
-    <!-- Footer 
+    <!-- Footer -->
     <p align="center">
         ════ ⋆★⋆ ════
-    </p>-->
-    <samp>
-          <h3 >⇓ Badges ⇓</h3>
-    </samp>
+    </p>
+    <!-- Badges Footer
+    <table>
+      <tr>
+      <td colspan="2" align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=200&height=25&lines=Badges+-+Holopin" alt="Badges" width=825 height=25/>
+      </td>
+    </tr>
+    </table>
     <div align="center">
             <td align="center">
                 <img src="https://holopin.me/anasfarock" width=855/>
             </td>
-    </div>
+    </div> -->
 
 <!-- Featured Repositories 
 #### Featured
