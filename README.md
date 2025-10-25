@@ -1,5 +1,5 @@
 <!-- https://github.com/anasfarock/ -->
-<!-- LEAVE A STAR, IF YOU LIKE IT !  -->
+<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Muhammad%20Anas%20Farooq&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
