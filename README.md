@@ -87,7 +87,7 @@
             </td>
         </table>
         <!-- Wakatime Stats Table -->
-        <table>
+        <!-- <table>
           <tr>
             <td colspan="2" align="center">
               <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=006AFF&center=true&vCenter=true&width=400&height=25&lines=Weekly+Statistics+-+Wakatime" alt="Wakatime Stats" />
@@ -101,7 +101,7 @@
               <img src="https://wakatime.com/share/@anasfarooq/a990e86e-9079-4ffb-93e6-f2d285df0e29.svg?v=1" alt="Wakatime Stats Right" width="398" />
             </td>
           </tr>
-        </table>
+        </table> -->
         <!-- Badges Table-->
         <table>
           <tr>
