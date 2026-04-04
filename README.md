@@ -60,7 +60,7 @@
               <img alt="Anas Farooq's GitHub Streak Stats" 
                    src="https://github-readme-streak-stats.herokuapp.com/?user=anasfarock&theme=transparent&hide_border=true" />
             </td>
-            <td rowspan="2">
+            <!-- <td rowspan="2">
               <img alt="Top Languages"
                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfarock&layout=donut-vertical&theme=transparent&hide_border=true" />
             </td>
@@ -73,7 +73,7 @@
           </tr>
         </table>
         </div>
-        <div align="center">
+        <div align="center"> -->
         <!-- Monthly Contributions Stats -->
         <table>
           <tr>
