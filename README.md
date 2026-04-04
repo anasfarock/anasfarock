@@ -36,10 +36,10 @@
         <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
             <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-37bcf8?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30">
         </a>
-        <!-- NodeJS -->
+        <!-- NodeJS 
         <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
             <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30">
-        </a>
+        </a> -->
         <!-- ExpressJS -->
         <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
             <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30">
