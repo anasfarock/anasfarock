@@ -25,6 +25,9 @@
     <img alt="React" src="https://img.shields.io/badge/React-02cdf1?style=for-the-badge&logo=react&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/flutter-424242.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB" height="30">
+  </a>
+  <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
