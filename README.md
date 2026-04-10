@@ -45,7 +45,7 @@ Outside of personal projects, I've done internships at Techaccess Pakistan and Z
 
 <!-- Social Links -->
 <div align="center">
-  <h3>Find me on</h3>
+  <h3>「 Find me on 」</h3>
   <a href="mailto:m.anas.farooq@outlook.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
   </a>
