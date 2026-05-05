@@ -1,9 +1,5 @@
 <!-- https://github.com/anasfarock/ -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Muhammad%20Anas%20Farooq&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
-</div>
-
 <!-- Title -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
@@ -52,9 +48,9 @@ Outside of personal projects, I've done internships at Techaccess Pakistan and Z
   <a href="mailto:m.anas.farooq@outlook.com" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
   </a>
-  <!-- <a href="https://twitter.com/AnasFarq" target="_blank">
+  <a href="https://twitter.com/nasfarooq" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white">
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/anasfarock/" target="_blank">
     <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
   </a>
@@ -67,7 +63,7 @@ Outside of personal projects, I've done internships at Techaccess Pakistan and Z
   <a href="https://medium.com/@anas.farooq" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/666.0.66/" target="_blank">
+  <a href="https://www.instagram.com/nasfaroq/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
   <!-- <a href="https://www.facebook.com/anasfarock" target="_blank">
