@@ -37,7 +37,7 @@
 ---
 
 <p align="justify">
-I am currently a Computer Science student at SZABIST, Islamabad, where I'm studying software engineering, machine learning, data structures, algorithms, and systems design. Being a full-stack developer, I can do it all from building frontend UIs to developing the back-end that powers it. Here are some of the applications I have created – a portfolio analysis engine, an innovative privacy-first ad-blocking chrome extension developed with the latest manifest v3 API, an event manager application, and a TradingView Indicator. In addition to the above mentioned, I am now diving deep into data science and machine learning, including forest fire dataset analysis with Python.
+I am currently a Computer Science student at SZABIST, Islamabad, where I'm studying software engineering, machine learning, data structures, algorithms, and systems design. Being a full-stack developer, I can do it all from building frontend UIs to developing the back-end that powers it. Here are some of the applications I have created – a portfolio analysis engine, an innovative privacy-first ad-blocking chrome extension developed with the latest manifest v3 API, an event manager application, and a TradingView Indicator.
 </p>
 
 <p align="justify">
