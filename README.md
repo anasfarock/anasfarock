@@ -40,11 +40,15 @@
 ---
 
 <p align="justify">
-I am currently a Computer Science student at SZABIST, Islamabad, where I'm studying software engineering, machine learning, data structures, algorithms, and systems design. Being a full-stack developer, I can do it all from building frontend UIs to developing the back-end that powers it. Here are some of the applications I have created – a portfolio analysis engine, an innovative privacy-first ad-blocking chrome extension developed with the latest manifest v3 API, an event manager application, and a TradingView Indicator.
+  <em>
+    I am currently a Computer Science student at SZABIST, Islamabad, where I'm studying software engineering, machine learning, data structures, algorithms, and systems design. Being a full-stack developer, I can do it all from building frontend UIs to developing the back-end that powers it. Here are some of the applications I have created – a portfolio analysis engine, an innovative privacy-first ad-blocking Chrome extension developed with the latest Manifest V3 API, an event manager application, and a TradingView indicator.
+  </em>
 </p>
 
 <p align="justify">
-Apart from my personal projects, I have interned at Techaccess Pakistan, where I assisted in developing IT infrastructure, fixing system issues, and providing technical support. This practical exposure gave me insights into many things that no course material could teach – handling actual systems and actual users with actual deadlines. I am involved in contributing to open source software and maintain various repositories on GitHub. I also blog when I have something worth sharing on social media channels. Currently, I am looking for opportunities, and I am an effective team player and quick learner who cares about delivering practical results.
+  <em>
+    Apart from my personal projects, I have interned at Techaccess Pakistan, where I assisted in developing IT infrastructure, fixing system issues, and providing technical support. This practical exposure gave me insights into many things that no course material could teach—handling actual systems and actual users with actual deadlines. I contribute to open-source software and maintain various repositories on GitHub. I also blog when I have something worth sharing on social media. Currently, I am looking for opportunities, and I am an effective team player and quick learner who cares about delivering practical results.
+  </em>
 </p>
 
 ---
