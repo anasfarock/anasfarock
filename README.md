@@ -53,25 +53,25 @@ Apart from my personal projects, I have interned at Techaccess Pakistan, where I
 <div align="center">
   <!-- <h3>「 Find me on 」</h3> -->
   <a href="mailto:m.anas.farooq@outlook.com" target="_blank">
-    <img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=mailgun&logoColor=white">
+    <img alt="Mail" src="https://img.shields.io/badge/-Mail-%23404d59?style=flat-square&logo=mailgun&logoColor=white">
   </a>
   <a href="https://twitter.com/nasfarooq" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white">
+    <img alt="Twitter" src="https://img.shields.io/badge/-X-%23404d59?style=flat-square&logo=X&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/anasfarock/" target="_blank">
-    <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+    <img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%23404d59?logo=linkedin-white&logoColor=fff">
   </a>
   <a href="https://bsky.app/profile/anasfarooq.bsky.social" target="_blank">
-    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=Bluesky&logoColor=white">
+    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%23404d59?style=flat-square&logo=Bluesky&logoColor=white">
   </a>
   <!-- <a href="https://mastodon.social/@anasfarooq" target="_blank">
     <img alt="Mastodon" src="https://img.shields.io/badge/-Mastodon-%232B90D9?style=flat-square&logo=mastodon&logoColor=white">
   </a> -->
   <a href="https://medium.com/@anas.farooq" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%23404d59.svg?style=flat-square&logo=medium&logoColor=white">
   </a>
   <a href="https://www.instagram.com/nasfaroq/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23404d59?style=flat-square&logo=instagram&logoColor=white">
   </a>
   <!-- <a href="https://www.facebook.com/anasfarock" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white">
