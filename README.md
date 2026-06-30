@@ -18,13 +18,13 @@
     <img alt="Python" src="https://img.shields.io/badge/C++-%23404d59?style=for-the-badge&logo=cplusplus&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%23404d59?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%23404d59?style=for-the-badge&logo=python&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-%23404d59?style=for-the-badge&logo=react&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
-    <img alt="ExpressJS" src="https://img.shields.io/badge/flutter-%23404d59.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB" height="30">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/flutter-%23404d59.svg?style=for-the-badge&logo=flutter&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/Next.js-%23404d59?style=for-the-badge&logo=next.js&logoColor=white" height="30">
@@ -33,7 +33,7 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%23404d59?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30">
   </a>
   <a href="https://github.com/anasfarock?tab=repositories" target="_blank">
-    <img alt="ExpressJS" src="https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=blue" height="30">
+    <img alt="ExpressJS" src="https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=white" height="30">
   </a>
 </p>
 
