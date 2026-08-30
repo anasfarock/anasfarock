@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-    「 I'm a developer and a data scientist from <b>Pakistan</b> 」
+    「 I'm a software engineer from <b>Pakistan</b> 」
     <br>
     「 Leveraging analytics and machine learning to build data-driven solutions 」
     <br><br>
